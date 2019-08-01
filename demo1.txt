@@ -1,2 +1,11 @@
 2019.08.01
 print("hello world")
+
+class test1(object):
+    def __init__(self,name)
+      self.name=name
+    def out(self):
+      print('你好，世界')
+if __name__=="__main__":
+    test=test1('alex')
+    test.out()
